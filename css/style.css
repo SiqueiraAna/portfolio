@@ -224,8 +224,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #hero {
   width: 100%;
   height: 70%;
-  background: #99d3fa30;
-  border-bottom: 2px solid #abd5ee;
+  background: #FFFFFF;
+  border-bottom: 2px solid #94A5EF;
   margin: 72px 0 -72px 0;
 }
 
@@ -256,11 +256,11 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   transition: 0.5s;
   margin: 10px;
   color: #fff;
-  background: #00ccff;
+  background: #94A5EF;
 }
 
 #hero .btn-get-started:hover {
-  background: #99d3fa30;
+  background: #94A5EF;
   transform: scale(1.2);
 }
 
@@ -348,7 +348,7 @@ section {
 }
 
 .section-bg {
-  background-color: #99d3fa30;
+  background-color: #94A5EF;
 }
 
 .section-title {
@@ -380,7 +380,7 @@ section {
   display: block;
   width: 60px;
   height: 2px;
-  background:#00ccff;
+  background:#94A5EF;
   bottom: 0;
   left: calc(50% - 30px);
 }
@@ -423,14 +423,14 @@ section {
 @media  {
   .about .about-img img {
   border-radius: 50%;
-  border:5px solid  #00ccff;
+  border:5px solid  #94A5EF;
   }
 }
 
 @media  {
   .about .about-img img {
     border-radius: 50%;
-    border:5px solid  #00ccff;
+    border:5px solid  #94A5EF;
   }
 }
 
